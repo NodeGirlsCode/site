@@ -9,7 +9,7 @@
 
 exports.create = {
 	Nodegirls: [
-		{ 'name.first': 'Admin', 'name.last': 'User', 'email': 'contato@nodegirlscode.org', 'password': '6962sugar', 'isAdmin': true },
+		{ 'name.first': 'Admin', 'name.last': 'User', 'email': 'camilla-m@outlook.com', 'password': '', 'isAdmin': true },
 	],
 };
 
